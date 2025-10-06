@@ -1,8 +1,8 @@
 import { Route, Routes } from 'react-router-dom';
 
-import Homepage from '../pages/home/Homepage1';
+import Homepage from '../pages/home/Homepage3';
 import Homepage2 from '../pages/home/Homepage2';
-import Homepage3 from '../pages/home/Homepage3';
+import Homepage3 from '../pages/home/Homepage1';
 
 import Jobprofile from '../pages/forcandidates/Jobprofile';
 import Jobmyresume from '../pages/forcandidates/Jobmyresume';

@@ -53,10 +53,10 @@ function Loginpage3() {
 								<h2 className="m-b10">Login To You Now</h2>
 								<p className="m-b40">Lorem Ipsum is simply dummy text of the printing and typesetting industry has been the industry.</p>
 								<ul className="list-inline m-a0">
-									<li><Link to={'https://www.facebook.com/dexignzone'} className="site-button white facebook circle "><i className="fa fa-facebook" /></Link></li>
+									{/* <li><Link to={'https://www.facebook.com/dexignzone'} className="site-button white facebook circle "><i className="fa fa-facebook" /></Link></li> */}
 									<li><Link to={'https://www.linkedin.com/showcase/dexignzone/posts/?feedView=all'} className="site-button white linkedin circle "><i className="fa fa-linkedin" /></Link></li>
-									<li><Link to={'https://www.instagram.com/dexignzone/'} className="site-button white instagram circle "><i className="fa fa-instagram" /></Link></li>
-									<li><Link to={'https://twitter.com/dexignzone'} className="site-button white twitter circle "><i className="fa fa-twitter" /></Link></li>
+									{/* <li><Link to={'https://www.instagram.com/dexignzone/'} className="site-button white instagram circle "><i className="fa fa-instagram" /></Link></li> */}
+									{/* <li><Link to={'https://twitter.com/dexignzone'} className="site-button white twitter circle "><i className="fa fa-twitter" /></Link></li> */}
 								</ul>
 							</div>
 						</div>
@@ -69,7 +69,7 @@ function Loginpage3() {
 					<div className="row">
 						<div className="col-lg-12 text-center">
 							<span className="float-start text-black-light"> © Copyright by <i className="fa fa-heart m-lr5 text-red heart" />
-								<Link to={"#"} className="text-primary">DexignZone </Link></span>
+								<Link to={"#"} className="text-primary">bolo.com </Link></span>
 							<span className="float-end">All rights reserved.</span>
 						</div>
 					</div>
