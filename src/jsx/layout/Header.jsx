@@ -89,10 +89,10 @@ function Header() {
 					<div className="main-bar clearfix">
 						<div className="container clearfix">
 							<div className="logo-header mostion logo-dark">
-								<Link to={"/"}><img src={IMAGES.logo} alt=" " /></Link>
+								<Link to={"/"}><img src={IMAGES.logo} alt=" " className="align-middle" style={{ height: '90px', width: 'auto', verticalAlign: 'middle' }}/></Link>
 							</div>
 							<div className="logo-header mostion logo-white">
-								<Link to={"/"}><img src={IMAGES.logowhite} alt=" " /></Link>
+								<Link to={"/"}><img src={IMAGES.logowhite} alt=" " className="w-12 h-auto"/></Link>
 							</div>
 							<button onClick={handleclick} className={`navbar-toggler navicon justify-content-end ${show ? 'open' : ''}`} type="button">
 								<span></span>
