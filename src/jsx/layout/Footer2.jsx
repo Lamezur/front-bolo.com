@@ -72,7 +72,7 @@ function Footer2() {
                     <div className="container">
                         <div className="row">
                             <div className="col-lg-12 text-center">
-                                <span> Copyright © {year} <Link to={"https://dexignzone.com"}> DexignZone. </Link> All rights reserved. </span>
+                                <span> Copyright © {year} <Link to={"https://bolo.com"}> Bolo. </Link> All rights reserved. </span>
                             </div>
                         </div>
                     </div>

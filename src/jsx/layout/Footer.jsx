@@ -71,7 +71,7 @@ function Footer() {
 					<div className="row">
 						<div className="col-lg-12 text-center">
 							<span> © Copyright {year} by <i className="fa fa-heart m-lr5 text-red heart" />
-								<Link to={'https://dexignzone.com'}> DexignZone </Link> All rights reserved.</span>
+								<Link to={'https://bolo.com'}> Bolo </Link> All rights reserved.</span>
 						</div>
 					</div>
 				</div>
